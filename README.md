@@ -53,8 +53,8 @@ The project has been organized for ease of navigation:
 ## 🎓 Tutorial Shoutout & Credits
 
 ### The Tutorial
-A huge shoutout to **[Insert YouTuber's Channel/Name Here]** for the amazing tutorial that provided the foundation for this walking simulator! 
-*   📺 Watch the original tutorial here: **[Link to YouTube Video]**
+A huge shoutout to [TheMIU](https://github.com/TheMIU) for the amazing tutorial that provided the foundation for this walking simulator! 
+*   📺 Watch the original tutorial here: **[YouTube Playlist](https://youtube.com/playlist?list=PL0mz1SVZwu2EIvtiOIL3qFSOKP95tpBbY&si=za2rWPo46384yPGp)**
 
 ### Assets Used
 *   **3D Horse Model:** 
