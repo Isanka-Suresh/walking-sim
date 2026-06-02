@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b53r6fw4ppoho"
+path="res://.godot/imported/ANMLHors_Breath horse 4 (ID 1543)_BigSoundBank.com.mp3-d6ae43eb8d1f7ef0cdcc7c28aeadd83b.mp3str"
+
+[deps]
+
+source_file="res://assets/horse/ANMLHors_Breath horse 4 (ID 1543)_BigSoundBank.com.mp3"
+dest_files=["res://.godot/imported/ANMLHors_Breath horse 4 (ID 1543)_BigSoundBank.com.mp3-d6ae43eb8d1f7ef0cdcc7c28aeadd83b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

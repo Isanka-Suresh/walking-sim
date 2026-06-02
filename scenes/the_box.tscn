@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://btsewic31hrsd"]
+
+[ext_resource type="Script" uid="uid://dnic1te2d0kyl" path="res://scripts/the_box.gd" id="1_whhly"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_0bhed"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_m0rpm"]
+
+[node name="TheBox" type="StaticBody3D" unique_id=1725429764]
+script = ExtResource("1_whhly")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=700545823]
+mesh = SubResource("BoxMesh_0bhed")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=963375625]
+shape = SubResource("BoxShape3D_m0rpm")
